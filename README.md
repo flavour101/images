@@ -1,3 +1,3 @@
-# Flavour 101 Images
+# Flavour 101 Content
 
-Flavour 101 Images
+Flavour 101 Content
